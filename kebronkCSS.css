@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.jobTitle{
+    font-weight: bold;
+
+}
+#degree{
+    font-weight: bold;
+}
